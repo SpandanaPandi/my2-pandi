@@ -1,4 +1,3 @@
-# my2-pandi
 # Spandana Pandi
 ### Barcelona
 
