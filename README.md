@@ -12,3 +12,4 @@ My favorite vacation spot is Barcelona because Barceloneta beach and the Parc de
 * Croquettes
 * Patatas Bravas
 * Gazpacho
+[MyStats file](MyStats.md)
