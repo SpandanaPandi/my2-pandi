@@ -12,4 +12,16 @@ My favorite vacation spot is Barcelona because Barceloneta beach and the Parc de
 * Croquettes
 * Patatas Bravas
 * Gazpacho
+
+***
+
+## Sports Section
+
+| Name of the Sport | Reason to play| hours in Average week|
+|  :---------------:| :------------:| :------------------: |   
+|     Cricket       |    Fitness    |         10           |
+|     Tennis        |Burn Calories  |         5            |
+|     Hockey        |Builds teamwork|         6            |
+
+
 [MyStats file](MyStats.md)
