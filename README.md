@@ -5,7 +5,7 @@ My favorite vacation spot is Barcelona because Barceloneta beach and the Parc de
 
 ***
 
-# Ordered List of activities
+## Ordered List of activities
 1. Soak up phenomenal city views at  Gaudis park guell
 2. Chill out in the sun at Barceona's beaches
 1. Visit the MNAC
@@ -22,6 +22,18 @@ My favorite vacation spot is Barcelona because Barceloneta beach and the Parc de
 |     Cricket       |    Fitness    |         10           |
 |     Tennis        |Burn Calories  |         5            |
 |     Hockey        |Builds teamwork|         6            |
+
+
+***
+
+## Pithy Quotes section
+> Only two things are infinite, the universe and human stupidity, and I'm not sure about the former.
+ *Albert Einstein* 
+
+>The most successful men in the end are those whose success is the result of steady accretion.
+  *Alexander Graham bell*
+
+
 
 
 [MyStats file](MyStats.md)
