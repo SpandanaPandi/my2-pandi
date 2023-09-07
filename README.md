@@ -17,11 +17,15 @@ My favorite vacation spot is Barcelona because Barceloneta beach and the Parc de
 
 ## Sports Section
 
+The below table displays the sports which are very helpful for  leading a healthy life.
+
+
 | Name of the Sport | Reason to play| hours in Average week|
 |  :---------------:| :------------:| :------------------: |   
 |     Cricket       |    Fitness    |         10           |
-|     Tennis        |Burn Calories  |         5            |
-|     Hockey        |Builds teamwork|         6            |
+|     Football      |Burn Calories  |         3            |
+|     Hockey        |Builds teamwork|         4            |
+|     VolleyBall    |Best workout   |         6            |
 
 
 ***
