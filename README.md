@@ -5,7 +5,7 @@ My favorite vacation spot is Barcelona because Barceloneta beach and the Parc de
 
 ***
 
-## Ordered List of activities
+## List of activities
 1. Soak up phenomenal city views at  Gaudis park guell
 2. Chill out in the sun at Barceona's beaches
 1. Visit the MNAC
